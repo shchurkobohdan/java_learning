@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f503469c-34e1-4c19-b75e-0eeafd684727" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f503469c-34e1-4c19-b75e-0eeafd684727" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +24,8 @@
       <file leaf-file-name="ArrayTask8.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -73,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="815" />
@@ -480,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/n3/arrays/ArrayTask8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
